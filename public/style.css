@@ -2,3 +2,60 @@ body {
   margin: 0;
   padding: 0;
 }
+
+#header {
+  width: 900px;
+  height: 70px;
+  background-color: #AF3A0B;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display-block;
+  border-radius: 30px;
+}
+
+#container {
+  width: 900px;
+  height: auto;
+  margin: auto;
+  padding: 0;
+  margin-bottom: 10px;
+}
+
+#left {
+  width: 680px;
+  height: 900px;
+  background-color: #07705B;
+  float: left;
+  display: inline-block;
+  border-radius: 30px;
+  margin-bottom: 10px;
+}
+
+.right {
+  width: 200px;
+  height: 300px;
+  float: right;
+  display: inline-block;
+  border-radius: 30px;
+  margin-bottom: 10px;
+}
+
+#right1 {
+  background-color: #087848;
+}
+
+#right2 {
+  background-color: #AF4C0B;
+}
+
+#footer {
+  width: 900px;
+  height: 70px;
+  background-color: #AF3A0B;
+  margin: auto;
+  margin-bottom: 10px;
+  display: block;
+  border-radius: 30px;
+  clear: both;
+}
