@@ -13,7 +13,7 @@ body {
   margin-bottom: 10px;
   display-block;
   border-radius: 30px;
-  box-shadow: 10px 10px 5px #888888;
+  box-shadow: 10px 10px 5px #ffffff;
 }
 
 #container {
@@ -32,7 +32,7 @@ body {
   display: inline-block;
   border-radius: 30px;
   margin-bottom: 10px;
-  box-shadow: 10px 10px 5px #888888;
+  box-shadow: 10px 10px 5px #ffffff;
 }
 
 .right {
@@ -42,7 +42,7 @@ body {
   display: inline-block;
   border-radius: 30px;
   margin-bottom: 10px;
-  box-shadow: 10px 10px 5px #888888;
+  box-shadow: 10px 10px 5px #ffffff;
 }
 
 #right1 {
@@ -62,5 +62,5 @@ body {
   display: block;
   border-radius: 30px;
   clear: both;
-  box-shadow: 10px 10px 5px #888888;
+  box-shadow: 10px 10px 5px #ffffff;
 }
